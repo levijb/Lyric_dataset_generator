@@ -5,7 +5,7 @@
 - Choose parameters to customize the output
   - topchart_type: songs, artists, or albums; Do you want to base the dataset on the top songs, artists, or albums?
   - genre: all, rap, rb, pop, rock, country; 
-  - size: size of dataset , 1-10; Dataset size adjuster. 1: top 10 charts, 2: top 20 charts, ... , 10: top 100 charts
+  - size: size of dataset , 1-10; Dataset size adjuster. 1= 10 top charts, 2= 20 top charts, ... , 10= 100 top charts
   - time: day, week, month, all_time; Top charts time period.
   - level: topchart, albums, discogrpahy. Do you want to the dataset to include only the top chart hits, or expand the dataset to add full albums of every topchart hit (topchart arguement must be either songs or albums), orr make a huge dataset by getting the N top songs in the artist's discography of every top chart hit? **This parameter may alter the dataset size more than the size parameter** 
          
