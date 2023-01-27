@@ -1,4 +1,4 @@
-# Lyrics_dataset_generator
+# Lyric_dataset_generator
 - Framework of functions to automatically create large datasets with one line of code. 
 - Sit back, relax, and keep your computer plugged in overnight and connected to the internet.
 - Use make_dataset() to make a dataset and save_dataset() to download it to your computer. 
