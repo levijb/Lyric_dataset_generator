@@ -10,7 +10,4 @@
   - level: topchart, albums, discogrpahy. Do you want to the dataset to include only the top chart hits, or expand the dataset to add full albums of every topchart hit (topchart arguement must be either songs or albums), orr make a huge dataset by getting the N top songs in the artist's discography of every top chart hit? **This parameter may alter the dataset size more than the size parameter** 
          
          
-
-- Install with 'pip install song-lyric-dataset-generator'
-         
 NOTE: You first must obtain codes to access the API. Visit https://docs.genius.com/#/getting-started-h1 and follow the steps. To use this package you must have a .env file named 'tokens.env' stored in the same folder as the Lyrics_dataset_generator python file. In this .env store the codes you get -  client_id=#####, client_secret=#####, client_access_token=##### This is the site for the 'middle man' client made specifically for the Genius API https://lyricsgenius.readthedocs.io/en/master/
